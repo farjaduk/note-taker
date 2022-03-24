@@ -1,26 +1,23 @@
 {
-  "name": "note-taker",
+  "name": "note_taker",
   "version": "1.0.0",
-  "description": "Description:",
+  "description": "Note taker uses express and node.js",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "farjaduk",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.16.4",
-    "uuid": "^8.3.2"
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/farjaduk/note-taker.git"
   },
-  "keywords": [],
+  "author": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/farjaduk/note-taker/issues"
   },
-  "homepage": "https://github.com/farjaduk/note-taker#readme"
+  "homepage": "https://github.com/farjaduk/note-taker#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^8.3.2"
+  }
 }

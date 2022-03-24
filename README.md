@@ -10,3 +10,4 @@ As a small business our client wants to be able to write and save notes so that 
 
 
 Github: https://github.com/farjaduk
+Link to Deployed App: https://whispering-island-30176.herokuapp.com/
